@@ -1,0 +1,6 @@
+Added Component: Designator=*1(PCBComponent_1)
+Added Component: Designator=*2(PCBComponent_1)
+Added Component: Designator=*3(PCBComponent_1)
+Added Member To Class: ClassName=Sheet2 Member=Component *1 Component_1
+Added Member To Class: ClassName=Sheet2 Member=Component *2 Component_1
+Added Member To Class: ClassName=Sheet2 Member=Component *3 Component_1

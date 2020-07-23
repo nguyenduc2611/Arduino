@@ -1,0 +1,111 @@
+Added Component: Designator=Arduino1(Arduino Nano)
+Added Component: Designator=ban_phim1(Header8)
+Added Component: Designator=C1(HDR4)
+Added Component: Designator=C2(HDR4)
+Added Component: Designator=C3(HDR3)
+Added Component: Designator=C4(HDR3)
+Added Component: Designator=JACK DC1(JACK DC 5.5)
+Added Component: Designator=L1(BUCK_LM2596)
+Added Component: Designator=LS1(SPEAKER)
+Added Component: Designator=NodeMCU-1(NodeMCU V1.0 ESP-12E)
+Added Component: Designator=RFID1(Header8)
+Added Pin To Net: NetName=+12V Pin=Arduino1-VIN
+Added Pin To Net: NetName=+12V Pin=JACK DC1-1
+Added Pin To Net: NetName=+12V Pin=L1-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=3.3V Pin=Arduino1-3V3
+Added Pin To Net: NetName=3.3V Pin=RFID1-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=A0_MQ Pin=C1-4
+Added Pin To Net: NetName=A0_MQ Pin=NodeMCU-1-A0
+Added Net: Name=A0_MQ
+Added Pin To Net: NetName=BUZZER Pin=Arduino1-D8
+Added Pin To Net: NetName=BUZZER Pin=LS1-1
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=D0_MQ Pin=C1-3
+Added Pin To Net: NetName=D0_MQ Pin=NodeMCU-1-D1
+Added Net: Name=D0_MQ
+Added Pin To Net: NetName=DHT Pin=C3-2
+Added Pin To Net: NetName=DHT Pin=NodeMCU-1-D2
+Added Net: Name=DHT
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-3
+Added Pin To Net: NetName=GND Pin=C4-3
+Added Pin To Net: NetName=GND Pin=L1-3
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=RFID1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=KEYPAD_1 Pin=Arduino1-D6
+Added Pin To Net: NetName=KEYPAD_1 Pin=ban_phim1-1
+Added Net: Name=KEYPAD_1
+Added Pin To Net: NetName=KEYPAD_2 Pin=Arduino1-D5
+Added Pin To Net: NetName=KEYPAD_2 Pin=ban_phim1-2
+Added Net: Name=KEYPAD_2
+Added Pin To Net: NetName=KEYPAD_3 Pin=Arduino1-D4
+Added Pin To Net: NetName=KEYPAD_3 Pin=ban_phim1-3
+Added Net: Name=KEYPAD_3
+Added Pin To Net: NetName=KEYPAD_4 Pin=Arduino1-A0
+Added Pin To Net: NetName=KEYPAD_4 Pin=ban_phim1-4
+Added Net: Name=KEYPAD_4
+Added Pin To Net: NetName=KEYPAD_5 Pin=Arduino1-A1
+Added Pin To Net: NetName=KEYPAD_5 Pin=ban_phim1-5
+Added Net: Name=KEYPAD_5
+Added Pin To Net: NetName=KEYPAD_6 Pin=Arduino1-A2
+Added Pin To Net: NetName=KEYPAD_6 Pin=ban_phim1-6
+Added Net: Name=KEYPAD_6
+Added Pin To Net: NetName=KEYPAD_7 Pin=Arduino1-A3
+Added Pin To Net: NetName=KEYPAD_7 Pin=ban_phim1-7
+Added Net: Name=KEYPAD_7
+Added Pin To Net: NetName=KEYPAD_8 Pin=Arduino1-A6
+Added Pin To Net: NetName=KEYPAD_8 Pin=ban_phim1-8
+Added Net: Name=KEYPAD_8
+Added Pin To Net: NetName=MISO_RFID Pin=Arduino1-D12
+Added Pin To Net: NetName=MISO_RFID Pin=RFID1-5
+Added Net: Name=MISO_RFID
+Added Pin To Net: NetName=MOSI_RFID Pin=Arduino1-D11
+Added Pin To Net: NetName=MOSI_RFID Pin=RFID1-6
+Added Net: Name=MOSI_RFID
+Added Pin To Net: NetName=NetJACK DC1_2 Pin=JACK DC1-2
+Added Pin To Net: NetName=NetJACK DC1_2 Pin=JACK DC1-3
+Added Pin To Net: NetName=NetJACK DC1_2 Pin=L1-2
+Added Net: Name=NetJACK DC1_2
+Added Pin To Net: NetName=RST_RFID Pin=Arduino1-D7
+Added Pin To Net: NetName=RST_RFID Pin=RFID1-2
+Added Net: Name=RST_RFID
+Added Pin To Net: NetName=RX_MCU Pin=Arduino1-D3
+Added Pin To Net: NetName=RX_MCU Pin=NodeMCU-1-D6
+Added Net: Name=RX_MCU
+Added Pin To Net: NetName=SCK_RFID Pin=Arduino1-D13
+Added Pin To Net: NetName=SCK_RFID Pin=RFID1-7
+Added Net: Name=SCK_RFID
+Added Pin To Net: NetName=SCL Pin=Arduino1-A5
+Added Pin To Net: NetName=SCL Pin=C2-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=Arduino1-A4
+Added Pin To Net: NetName=SDA Pin=C2-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=SERVO Pin=Arduino1-D9
+Added Pin To Net: NetName=SERVO Pin=C4-2
+Added Net: Name=SERVO
+Added Pin To Net: NetName=SS_RFID Pin=Arduino1-D10
+Added Pin To Net: NetName=SS_RFID Pin=RFID1-8
+Added Net: Name=SS_RFID
+Added Pin To Net: NetName=TX_MCU Pin=Arduino1-D2
+Added Pin To Net: NetName=TX_MCU Pin=NodeMCU-1-D5
+Added Net: Name=TX_MCU
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=L1-4
+Added Pin To Net: NetName=VCC Pin=NodeMCU-1-VIN
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

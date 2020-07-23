@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=LoLin-? NewDesignator=LoLin-1
+Added Component: Designator=C1(JP3-C1T)
+Added Component: Designator=C2(JP3-C1T)
+Added Component: Designator=C3(JP3-C1T)
+Added Component: Designator=C4(JP5-C1T)
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=LoLin-1-3V3
+Added Pin To Net: NetName=3.3V Pin=LoLin-1-3V3
+Added Pin To Net: NetName=3.3V Pin=LoLin-1-3V3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=DHT1 Pin=C1-2
+Added Pin To Net: NetName=DHT1 Pin=LoLin-1-D1
+Added Net: Name=DHT1
+Added Pin To Net: NetName=DHT2 Pin=C2-2
+Added Pin To Net: NetName=DHT2 Pin=LoLin-1-D2
+Added Net: Name=DHT2
+Added Pin To Net: NetName=GND Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C2-3
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-5
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC4_3 Pin=C4-3
+Added Pin To Net: NetName=NetC4_3 Pin=LoLin-1-D5
+Added Net: Name=NetC4_3
+Added Pin To Net: NetName=NetC4_4 Pin=C4-4
+Added Pin To Net: NetName=NetC4_4 Pin=LoLin-1-D6
+Added Net: Name=NetC4_4
+Added Pin To Net: NetName=RELAY Pin=C3-3
+Added Pin To Net: NetName=RELAY Pin=LoLin-1-D3
+Added Net: Name=RELAY
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=LoLin-1-VUSB
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component C1 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component C2 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component C3 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component C4 JP5
+Added Room: Name=Sheet1

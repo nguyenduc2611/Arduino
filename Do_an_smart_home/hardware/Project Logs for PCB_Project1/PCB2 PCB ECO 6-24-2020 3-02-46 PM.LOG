@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=DHT Pin=NodeMCU-1-D2
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Added Component: Designator=C3(HDR6)
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=JACK DC1-2
+Added Pin To Net: NetName=GND Pin=JACK DC1-3
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=DHT Pin=NodeMCU-1-D1
+Added Pin To Net: NetName=RELAY_1 Pin=C3-3
+Added Pin To Net: NetName=RELAY_1 Pin=NodeMCU-1-D2
+Added Net: Name=RELAY_1
+Added Pin To Net: NetName=RELAY_2 Pin=C3-4
+Added Pin To Net: NetName=RELAY_2 Pin=NodeMCU-1-D3
+Added Net: Name=RELAY_2
+Added Pin To Net: NetName=RELAY_3 Pin=C3-5
+Added Pin To Net: NetName=RELAY_3 Pin=NodeMCU-1-D7
+Added Net: Name=RELAY_3
+Added Pin To Net: NetName=RELAY_4 Pin=C3-6
+Added Pin To Net: NetName=RELAY_4 Pin=NodeMCU-1-D8
+Added Net: Name=RELAY_4
+Added Member To Class: ClassName=Sheet1 Member=Component C5 Servo
+Added Room: Name=Sheet1

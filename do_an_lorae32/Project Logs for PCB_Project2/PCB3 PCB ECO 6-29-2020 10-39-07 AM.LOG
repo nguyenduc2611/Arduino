@@ -1,0 +1,70 @@
+Added Component: Designator=ANH_SANG1(JP4-C1T)
+Added Component: Designator=BOM1(JP3-C1T)
+Added Component: Designator=DHT1(JP3-C1T)
+Added Component: Designator=DO_AM_DAT1(JP4-C1T)
+Added Component: Designator=I1(JP4-C1T)
+Added Component: Designator=LORA_1(JP7-C1C)
+Added Component: Designator=LORA_2(JP7-C1C)
+Added Component: Designator=LORA_GATEWAY1(JP7-C1C)
+Added Component: Designator=Module SIM1(JP5-C1T)
+Added Component: Designator=QUAT1(JP3-C1T)
+Added Pin To Net: NetName=D0_2 Pin=DO_AM_DAT1-3
+Added Net: Name=D0_2
+Added Pin To Net: NetName=D0 Pin=ANH_SANG1-3
+Added Net: Name=D0
+Added Pin To Net: NetName=DHT Pin=DHT1-2
+Added Net: Name=DHT
+Added Pin To Net: NetName=GND Pin=ANH_SANG1-2
+Added Pin To Net: NetName=GND Pin=BOM1-2
+Added Pin To Net: NetName=GND Pin=DHT1-3
+Added Pin To Net: NetName=GND Pin=DO_AM_DAT1-2
+Added Pin To Net: NetName=GND Pin=I1-1
+Added Pin To Net: NetName=GND Pin=LORA_1-1
+Added Pin To Net: NetName=GND Pin=LORA_1-2
+Added Pin To Net: NetName=GND Pin=LORA_1-7
+Added Pin To Net: NetName=GND Pin=LORA_2-1
+Added Pin To Net: NetName=GND Pin=LORA_2-2
+Added Pin To Net: NetName=GND Pin=LORA_2-7
+Added Pin To Net: NetName=GND Pin=LORA_GATEWAY1-1
+Added Pin To Net: NetName=GND Pin=LORA_GATEWAY1-2
+Added Pin To Net: NetName=GND Pin=LORA_GATEWAY1-7
+Added Pin To Net: NetName=GND Pin=Module SIM1-5
+Added Pin To Net: NetName=GND Pin=QUAT1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=RELAY_2 Pin=BOM1-3
+Added Net: Name=RELAY_2
+Added Pin To Net: NetName=RELAY Pin=QUAT1-3
+Added Net: Name=RELAY
+Added Pin To Net: NetName=RX_2 Pin=LORA_2-4
+Added Net: Name=RX_2
+Added Pin To Net: NetName=RX_3 Pin=LORA_GATEWAY1-4
+Added Net: Name=RX_3
+Added Pin To Net: NetName=RX_SIM Pin=Module SIM1-3
+Added Net: Name=RX_SIM
+Added Pin To Net: NetName=RX Pin=LORA_1-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SCL Pin=I1-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=I1-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX_2 Pin=LORA_2-3
+Added Net: Name=TX_2
+Added Pin To Net: NetName=TX_3 Pin=LORA_GATEWAY1-3
+Added Net: Name=TX_3
+Added Pin To Net: NetName=TX_SIM Pin=Module SIM1-4
+Added Net: Name=TX_SIM
+Added Pin To Net: NetName=TX Pin=LORA_1-3
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=ANH_SANG1-1
+Added Pin To Net: NetName=VCC Pin=BOM1-1
+Added Pin To Net: NetName=VCC Pin=DHT1-1
+Added Pin To Net: NetName=VCC Pin=DO_AM_DAT1-1
+Added Pin To Net: NetName=VCC Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=LORA_1-6
+Added Pin To Net: NetName=VCC Pin=LORA_2-6
+Added Pin To Net: NetName=VCC Pin=LORA_GATEWAY1-6
+Added Pin To Net: NetName=VCC Pin=Module SIM1-1
+Added Pin To Net: NetName=VCC Pin=QUAT1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

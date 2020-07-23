@@ -1,0 +1,7 @@
+Added Component: Designator=LS?(SPEAKER)
+Added Pin To Net: NetName=GND Pin=LS?-2
+Added Pin To Net: NetName=NetLoLin-1_D7 Pin=LoLin-1-D7
+Added Pin To Net: NetName=NetLoLin-1_D7 Pin=LS?-1
+Added Net: Name=NetLoLin-1_D7
+Added Member To Class: ClassName=Sheet1 Member=Component LS? Speaker
+Added Room: Name=Sheet1

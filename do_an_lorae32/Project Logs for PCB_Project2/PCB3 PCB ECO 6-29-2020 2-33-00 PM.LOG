@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=D0 Pin=*3-10
+Removed Pin From Net: NetName=VCC Pin=BOM1-1
+Removed Pin From Net: NetName=GND Pin=BOM1-2
+Removed Pin From Net: NetName=VCC Pin=DO_AM_DAT1-1
+Removed Pin From Net: NetName=GND Pin=DO_AM_DAT1-2
+Removed Pin From Net: NetName=GND Pin=I1-1
+Removed Pin From Net: NetName=VCC Pin=I1-2
+Removed Pin From Net: NetName=GND Pin=LORA_2-1
+Removed Pin From Net: NetName=GND Pin=LORA_2-2
+Removed Pin From Net: NetName=VCC Pin=LORA_2-6
+Removed Pin From Net: NetName=GND Pin=LORA_2-7
+Removed Pin From Net: NetName=GND Pin=LORA_GATEWAY1-1
+Removed Pin From Net: NetName=GND Pin=LORA_GATEWAY1-2
+Removed Pin From Net: NetName=VCC Pin=LORA_GATEWAY1-6
+Removed Pin From Net: NetName=GND Pin=LORA_GATEWAY1-7
+Removed Pin From Net: NetName=VCC Pin=Module SIM1-1
+Removed Pin From Net: NetName=GND Pin=Module SIM1-5
+Added Component: Designator=JDC1(DC0)
+Added Component: Designator=JDC2(DC0)
+Added Component: Designator=JDC3(DC0)
+Added Component: Designator=L1(BUCK_LM2596)
+Added Component: Designator=L2(BUCK_LM2596)
+Added Component: Designator=L3(BUCK_LM2596)
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L1-3
+Added Pin To Net: NetName=VCC Pin=L1-4
+Change Net Name : Old Net Name=GND New Net Name=GND1
+Change Net Name : Old Net Name=VCC New Net Name=VCC1
+Added Pin To Net: NetName=GND2 Pin=BOM1-2
+Added Pin To Net: NetName=GND2 Pin=DO_AM_DAT1-2
+Added Pin To Net: NetName=GND2 Pin=JDC2-2
+Added Pin To Net: NetName=GND2 Pin=JDC2-3
+Added Pin To Net: NetName=GND2 Pin=L2-2
+Added Pin To Net: NetName=GND2 Pin=L2-3
+Added Pin To Net: NetName=GND2 Pin=LORA_2-1
+Added Pin To Net: NetName=GND2 Pin=LORA_2-2
+Added Pin To Net: NetName=GND2 Pin=LORA_2-7
+Added Net: Name=GND2
+Added Pin To Net: NetName=GND3 Pin=JDC3-2
+Added Pin To Net: NetName=GND3 Pin=JDC3-3
+Added Pin To Net: NetName=GND3 Pin=L3-2
+Added Pin To Net: NetName=GND3 Pin=L3-3
+Added Pin To Net: NetName=GND3 Pin=LORA_GATEWAY1-1
+Added Pin To Net: NetName=GND3 Pin=LORA_GATEWAY1-2
+Added Pin To Net: NetName=GND3 Pin=LORA_GATEWAY1-7
+Added Pin To Net: NetName=GND3 Pin=Module SIM1-5
+Added Net: Name=GND3
+Added Pin To Net: NetName=GND Pin=I1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJDC1_1 Pin=JDC1-1
+Added Pin To Net: NetName=NetJDC1_1 Pin=L1-1
+Added Net: Name=NetJDC1_1
+Added Pin To Net: NetName=NetJDC2_1 Pin=JDC2-1
+Added Pin To Net: NetName=NetJDC2_1 Pin=L2-1
+Added Net: Name=NetJDC2_1
+Added Pin To Net: NetName=NetJDC3_1 Pin=JDC3-1
+Added Pin To Net: NetName=NetJDC3_1 Pin=L3-1
+Added Net: Name=NetJDC3_1
+Added Pin To Net: NetName=VCC2 Pin=BOM1-1
+Added Pin To Net: NetName=VCC2 Pin=DO_AM_DAT1-1
+Added Pin To Net: NetName=VCC2 Pin=L2-4
+Added Pin To Net: NetName=VCC2 Pin=LORA_2-6
+Added Net: Name=VCC2
+Added Pin To Net: NetName=VCC3 Pin=I1-2
+Added Pin To Net: NetName=VCC3 Pin=L3-4
+Added Pin To Net: NetName=VCC3 Pin=LORA_GATEWAY1-6
+Added Pin To Net: NetName=VCC3 Pin=Module SIM1-1
+Added Net: Name=VCC3
+Added Member To Class: ClassName=Sheet2 Member=Component JDC1 Jac DC
+Added Member To Class: ClassName=Sheet2 Member=Component JDC2 Jac DC
+Added Member To Class: ClassName=Sheet2 Member=Component JDC3 Jac DC
+Added Member To Class: ClassName=Sheet2 Member=Component L1 BUCK_LM2596
+Added Member To Class: ClassName=Sheet2 Member=Component L2 BUCK_LM2596
+Added Member To Class: ClassName=Sheet2 Member=Component L3 BUCK_LM2596
