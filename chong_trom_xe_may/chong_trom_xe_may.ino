@@ -140,7 +140,7 @@ if(channel1 == LOW)
   channel1_off++;
   if(channel1_off > 100)
   {
-    Serial.println("channel1");
+    //Serial.println("channel1");
     flag_den = 1;
     digitalWrite(RELAY2, LOW);
   }
@@ -187,21 +187,18 @@ else
 }
 
 
-if(channel4 == HIGH)
+if((channel4 == HIGH)&&(car == 1))
 {
     digitalWrite(RELAY2, LOW);
     car = 0;
 }
-else if((channel4 == LOW)&&(!flag_den))
+else if((channel4 == LOW)&&(!flag_den)&&(car == 0))
 {
     digitalWrite(RELAY2, HIGH);
     car = 1;
 }
 else
 {
-  //Serial.println("den ta2");
-  digitalWrite(RELAY2, LOW);
-  car = 0;
 }
 
 }
